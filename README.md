@@ -3,6 +3,7 @@ This is a RPi Pico powered...calculator...with an extensive library of..."extra 
 The sole purpose of this project is to satisfy the ask of one of my classmates :sob:
 
 [Onshape link](https://cad.onshape.com/documents/416f156d5c7fec03dfea0d3a/w/a37f3b67ee07a3cc1823a5f4/e/b4b6719643a130719caaa4b0)
+Note: the display appears to be unaligned due to the fact that i used a different display to the model in the render. However, I designed the case around the display being used, so it should be fine.
 
 ## Repo structure
 `firmware/` for the (not completed) firmware
