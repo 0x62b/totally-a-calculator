@@ -2,6 +2,8 @@
 This is a RPi Pico powered...calculator...with an extensive library of..."extra apps" one could say.
 The sole purpose of this project is to satisfy the ask of one of my classmates :sob:
 
+[Onshape link](https://cad.onshape.com/documents/416f156d5c7fec03dfea0d3a/w/a37f3b67ee07a3cc1823a5f4/e/b4b6719643a130719caaa4b0)
+
 ## Images
 Beautifully clean and organised (/s) schematic
 ![schematic](images/schematic.png)
